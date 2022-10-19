@@ -1,20 +1,20 @@
 variable "subscription_id" {
- type = "string"
+ type = string
 }
 variable "tenant_id" {
- type = "string"
+ type = string
 }
 variable "client_id" {
- type = "string"
+ type = string
 }
 variable "client_secret" {
- type = "string"
+ type = string
 }
 variable "name"{
- type = "string"  
+ type = string  
 }
 variable "location" {
- type = "string"
+ type = string
 }
 
 
