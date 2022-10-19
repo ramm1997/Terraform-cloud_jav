@@ -16,5 +16,10 @@ variable "name"{
 variable "location" {
  type = string
 }
-
+variable "network" {
+ type = string
+}
+variable "internal" {
+ type = string
+}
 
