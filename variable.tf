@@ -1,20 +1,20 @@
 variable "subscription_id" {
-    default = ""
+ type = "string"
 }
 variable "tenant_id" {
-    default = ""
+ type = "string"
 }
 variable "client_id" {
-    default = ""
+ type = "string"
 }
 variable "client_secret" {
-    default = ""
+ type = "string"
 }
 variable "name"{
-    default = ""
+ type = "string"  
 }
 variable "location" {
-    default = ""
+ type = "string"
 }
 
 
