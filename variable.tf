@@ -1,2 +1,5 @@
-name = "var.name"
-location = "var.location"
+variable "name" "location"{
+    type = string
+}
+
+
