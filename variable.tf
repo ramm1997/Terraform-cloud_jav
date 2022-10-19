@@ -1,11 +1,15 @@
+variable "subscription_id" {
+}
+variable "tenant_id" {
+}
+variable "client_id" {
+}
+variable "client_secret" {
+}
 variable "name"{
-    type = string
-    default = "var.name"
 }
 
-variable "location"{ 
-    type = string
-    default = "var.location"
+variable "location" { 
 }
 
 
