@@ -8,7 +8,6 @@ variable "client_secret" {
 }
 variable "name"{
 }
-
 variable "location" { 
 }
 
