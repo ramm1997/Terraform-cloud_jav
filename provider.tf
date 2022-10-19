@@ -8,7 +8,6 @@ terraform {
     }
   }
 }
-# Configuration options
 provider "azurerm" {
   features {}
 }
