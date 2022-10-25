@@ -29,4 +29,8 @@ variable "test"{
 variable "private_ip"{
     type = string
 }
+#vm
+variable "vm_size"{
+    type = string
+}
 
