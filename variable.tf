@@ -22,4 +22,11 @@ variable "network" {
 variable "internal" {
  type = string
 }
+#network_interface
+variable "test"{
+    type  = string
+}
+variable "private_ip"{
+    type = string
+}
 
