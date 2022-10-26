@@ -33,7 +33,5 @@ variable "private_ip"{
 variable "vm_size"{
     type = string
 }
-variable "vm_size"{
-    type = string
-}
+
 
